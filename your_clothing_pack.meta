@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopPedApparel>
+<!-- Change <pedName> below to "mp_m_freemode_01" if you clothes are for male freemode ped -->
+<pedName>mp_f_freemode_01</pedName>
+<!-- The line <dlcName> below needs to be changed to the same name as your folder-->
+<dlcName>your_clothing_pack</dlcName>
+<!-- <fullDlcName> => This is a combination of "pedName" and "dlcName"-->
+<fullDlcName>mp_f_freemode_01_your_clothing_pack</fullDlcName>
+<!-- <eCharacter> below need to be changed to "SCR_CHAR_MULTIPLAYER" if using a male freemode ped -->
+<eCharacter>SCR_CHAR_MULTIPLAYER_F</eCharacter>
+<!-- <creatureMetaData> needs to be "MP_CreatureMetadata_" and your "dlcName" like shown-->
+<creatureMetaData>MP_CreatureMetadata_your_clothing_pack</creatureMetaData>
+
+<pedOutfits>
+</pedOutfits>
+<pedComponents>
+</pedComponents>
+<pedProps>
+</pedProps>
+
+</ShopPedApparel>
